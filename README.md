@@ -412,4 +412,10 @@ Possible improvements include:
 AI/ML Engineering Student
 
 - GitHub: https://github.com/SupR2344
-- LinkedIn: https://
+- LinkedIn: https://www.linkedin.com/in/supriyo-rana-337ab4351/
+
+---
+
+## License
+
+This project is licensed under the **MIT License**.

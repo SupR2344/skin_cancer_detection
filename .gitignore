@@ -208,4 +208,12 @@ __marimo__/
 
 # Project data and generated artifacts
 data/**/*.jpg
+data/**/*.jpeg
+data/**/*.png
+data/**/*.webp
+data/**/*.bmp
 outputs/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
